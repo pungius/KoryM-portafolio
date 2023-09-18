@@ -1,0 +1,38 @@
+body{
+	font-size: 14px;
+}
+
+header{
+	background-color: black;
+}
+#nav-bar{
+	background-color: #FFC55C;
+	color: white;
+	text-align: right;
+	padding: 20px;
+	font-size: 25px;
+}
+
+#productos-recomendados{
+	background-color: black;
+}
+#productos-recomendados h3{
+	color: white;
+	text-align: center;
+}
+#productos-recomendados article{
+	padding: 20px 20px;
+	border-raius: 10px;
+}
+#productos-recomendados article .card img{
+	padding-left: 20px;
+	padding-top: 20px;
+	align-content: center;
+}
+#productos-recomendados article .card p{
+	padding-top: 10px;
+	text-align: center;
+}
+
+
+
