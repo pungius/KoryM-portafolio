@@ -58,7 +58,7 @@ color:#FCBF49;
 
 }
 #conoceme img{
-	margin-left: 90px;
+	margin-left: 25px;
 	padding-bottom: 30px;
 	
 }
@@ -183,6 +183,8 @@ margin-bottom: 15px;
   font-size:3em;
   line-height: normal;
   word-spacing:0.5em;
+	animation: bounce;
+  animation-duration: 2s
 	
 }
 
@@ -222,7 +224,7 @@ align-content: center;
 #ransomizers .rww {
   white-space: pre;
   display:inline;
-  margin-left: .05em;
+  margin-left: .01em;
   margin-right: .1em;
 margin-bottom: 20px;
 }
@@ -244,6 +246,8 @@ margin-bottom: 20px;
   line-height: normal;
   word-spacing:0.5em;
 	text-align: center;
+	animation: bounce;
+  animation-duration: 2s
 }
 
 #ransomizera div {
@@ -253,8 +257,8 @@ margin-bottom: 20px;
 #ransomizera .rww {
   white-space: pre;
   display:inline;
-  margin-left: .05em;
-  margin-right: .1em;
+  margin-left: 0em;
+  margin-right: 1em;
 margin-bottom: 20px;
 }
 
@@ -307,11 +311,11 @@ margin-bottom: 20px;
 
 #warrior{
 	text-align: center;
-	margin-left: 100px;
+	
 }
 #skeleti{
 	text-align: center;
-	margin-left: 100px;
+
 }
 #dibujos{
 	background-color:#0e0e18;
@@ -352,7 +356,8 @@ margin-bottom: 20px;
 
 }
 #contacto img{
-	margin-left: 200px;
+	margin-left: 150px;
+	padding-top:50px;
 }
 #submit{
 margin-left: 120px;
@@ -361,7 +366,8 @@ margin-left: 120px;
   font-size:3em;
   line-height: normal;
   word-spacing:0.5em;
-	
+	 animation: bounce;
+  animation-duration: 2s;
 }
 
 #ransomizerw div {
